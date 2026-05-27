@@ -1,83 +1,102 @@
+# ZEUS STREAM
 
-# NETFLIX KE PITAJI
+![Last Commit](https://img.shields.io/github/last-commit/)
+![Stars](https://img.shields.io/github/stars/)
 
-[![CI](https://github.com/pulkitpareek18/netflix/actions/workflows/ci.yml/badge.svg)](https://github.com/pulkitpareek18/netflix/actions/workflows/ci.yml)
-[![Semgrep](https://github.com/pulkitpareek18/netflix/actions/workflows/semgrep.yml/badge.svg)](https://github.com/pulkitpareek18/netflix/actions/workflows/semgrep.yml)
-![Last Commit](https://img.shields.io/github/last-commit/pulkitpareek18/netflix)
-![Stars](https://img.shields.io/github/stars/pulkitpareek18/netflix)
+---
 
-## Release Snapshot (March 2026)
+# 🔥 ZEUS STREAM
 
-- Status: Active
-- Type: Static streaming-style web app
-- Live demo: https://netflix-1uh.pages.dev
-- CI checks: JavaScript syntax + static file integrity
+Watch Unlimited Movies, Anime, TV Shows and Web Series for Free.
 
-## Demo Card
+---
 
-[![Netflix Ke Pitaji Demo](https://raw.githubusercontent.com/pulkitpareek18/netflix/main/netflix-ke-pitaji.gif)](https://netflix-1uh.pages.dev)
+## 🚀 LIVE WEBSITE
 
+https://your-netlify-link.netlify.app/
 
-Watch all your favourite movies, web series, TV shows and anime for free. 
+---
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/pulkitpareek18)
+## 🎬 FEATURES
 
+- Unlimited Movies
+- Anime Streaming
+- TV Shows
+- Web Series
+- Fast Search
+- Mobile Friendly
+- APK Download
+- Red & Blue Gaming UI
+- Ultra Fast Loading
+- Single Page Website
 
+---
 
-## Demo
+## 📲 DOWNLOAD APK
 
-https://netflix-1uh.pages.dev
+https://www.mediafire.com/file/t81spcy4clbkf6f/ZEUS-sensi+.apk/file
 
-## GIF
+---
 
-![App GIF](https://raw.githubusercontent.com/pulkitpareek18/netflix/main/netflix-ke-pitaji.gif)
+## ⚡ TECHNOLOGIES USED
 
+- HTML5
+- CSS3
+- JavaScript
+- TMDB API
+- IMDB API
+- Vidsrc Player
 
-## Run Locally
+---
 
-Clone the project
+## 📱 CONTACT OWNER
+
+### OWNER 1
+
+WhatsApp:
++2349066760078
+
+Email:
+ge5853987@gmail.com
+
+---
+
+### OWNER 2
+
+WhatsApp:
++2348062285862
+
+---
+
+## 🔥 WEBSITE INFO
+
+ZEUS STREAM is a powerful streaming website
+that allows users to watch movies,
+anime and TV shows online for free.
+
+The platform is optimized for:
+
+- Android
+- iPhone
+- Tablets
+- PC
+- Smart TVs
+
+---
+
+## 🎨 UI DESIGN
+
+- Red & Blue Theme
+- Animated Background
+- Neon Glow Effects
+- Responsive Design
+- Gaming Style Interface
+
+---
+
+## 📂 INSTALLATION
+
+Clone the project:
 
 ```bash
-  git clone https://github.com/pulkitpareek18/netflix
-```
-
-Open the project directory and run `index.html`.
-
-
-## Features
-
-- Watch any movie, webseries, TV show or anime for free.
-- **Url Sharing**  
-    Despite of being a single page website built wihout any framework, you can still share url's of movies and other shows.
-- Ultra fast loading.
-- Single page website.
-
-
-
-
-## Acknowledgements
-
-- [Pace.js](https://codebyzach.github.io/pace/e.com/project/elangosundar/awesome-README-templates)
-- IMDB
-- TMDB
-- Smashy Stream
-
-## Authors
-
-- [@pulkitpareek18](https://www.github.com/pulkitpareek18)
-
-
-## Contributing
-
-Contributions are always welcome!  
-If you have any new Idea or have found a bug, please don't hesitate to open a Pull Request.
-
-
-## License
-
-[MIT](https://github.com/pulkitpareek18/netflix/blob/main/LICENSE)
-
-
-## Support
-
-For support, email pulkitpareekofficial@gmail.com or ask any query on Twitter.
+git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
